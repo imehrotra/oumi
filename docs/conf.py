@@ -132,7 +132,7 @@ html_theme_options = {
 pygments_style = "github-dark"
 
 # Mapping for intersphinx
-# modeule name -> (url, inventory file)
+# module name -> (url, inventory file)
 intersphinx_mapping = {
     "torch": ("https://pytorch.org/docs/stable", None),
     "transformers": ("https://huggingface.co/docs/transformers/main/en", None),
